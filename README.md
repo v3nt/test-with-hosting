@@ -1,3 +1,4 @@
+ 
 # test-with-hosting
 
 
@@ -13,3 +14,4 @@ echo 'export PATH="$HOME/.gem/ruby/2.6.0/bin:$PATH"' >> ~/.bash_profile
 `bundle exec jekyll 2.6.0 new .`
 
 gem "github-pages", "~> VERSION", group: :jekyll_plugins
+ 
